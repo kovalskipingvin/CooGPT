@@ -1,0 +1,184 @@
+1.
+
+Pigeon 1:
+"Coohhh... coo-coo."
+(Translation: "Good morning, how are you?")
+
+Pigeon 2:
+"Coohh, coo-coo-coo!"
+(Translation: "I’m doing well, thank you! The sun feels nice.")
+
+Pigeon 3:
+"Cooh-cooh, coo-coo."
+(Translation: "The wind is gentle today. Perfect for flying!")
+
+Pigeon 1:
+"Cooh-coo-coo?"
+(Translation: "Shall we go for a flight?")
+
+Pigeon 2:
+"Coohhh... coo."
+(Translation: "Not yet, let’s enjoy the calm for a while.")
+
+2.
+
+Pigeon 1:
+"Coohh... coo-coo?"
+(Translation: "Is it time to leave the rooftop?")
+
+Pigeon 2:
+"Coohh, coo-coo-coo!"
+(Translation: "Not yet, the humans are nearby. We should stay here.")
+
+Pigeon 3:
+"Cooh-coo, cooh-cooh."
+(Translation: "I think they’re gone now. We can go.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "I’ll wait a bit longer.")
+
+3.
+
+Pigeon 1:
+"Cooh-cooh-coo?"
+(Translation: "Have you seen the others today?")
+
+Pigeon 2:
+"Coohhh... coo-coo."
+(Translation: "Yes, they were flying around earlier. But they’ve gone.")
+
+Pigeon 3:
+"Cooh-coo-coo?"
+(Translation: "Should we go look for them?")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "No need. We’ll wait here. They’ll return soon.")
+
+4.
+
+Pigeon 1:
+"Cooh-coo-coo."
+(Translation: "The sky is so clear today.")
+
+Pigeon 2:
+"Coohh... coo."
+(Translation: "Yes, it’s perfect for a long flight.")
+
+Pigeon 3:
+"Cooh-cooh-coo!"
+(Translation: "Let’s explore the park! It’s always full of food.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "I prefer to stay here for now.")
+
+5.
+
+Pigeon 1:
+"Cooh-cooh?"
+(Translation: "What’s that noise below us?")
+
+Pigeon 2:
+"Coohh... coo-coo."
+(Translation: "I think it's a dog barking.")
+
+Pigeon 3:
+"Cooh-coo-coo!"
+(Translation: "We should stay up here, away from it.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "I’ll keep an eye on it.")
+
+6.
+
+Pigeon 1:
+"Cooh-coo?"
+(Translation: "Do you think it will rain?")
+
+Pigeon 2:
+"Coohh... coo-coo-coo."
+(Translation: "I don’t think so, the clouds are light.")
+
+Pigeon 3:
+"Cooh-coo-coo."
+(Translation: "I agree. It’s too nice for rain.")
+
+Pigeon 1:
+"Coohhh... coo."
+(Translation: "Let’s enjoy the warmth while it lasts.")
+
+7.
+
+Pigeon 1:
+"Coohhh... coo-coo."
+(Translation: "Do you ever wonder what’s beyond the city?")
+
+Pigeon 2:
+"Cooh-coo-coo!"
+(Translation: "All the time! There must be so much to see.")
+
+Pigeon 3:
+"Cooh-coo."
+(Translation: "But I like it here. It’s home.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "Maybe one day we’ll fly far away.")
+
+8.
+
+Pigeon 1:
+"Cooh-coo-coo?"
+(Translation: "Did you hear that sound?")
+
+Pigeon 2:
+"Coohhh... coo."
+(Translation: "It’s just the wind in the trees.")
+
+Pigeon 3:
+"Cooh-coo-coo!"
+(Translation: "Or maybe it’s just a car passing by.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "I’ll keep listening. Something feels strange.")
+
+9.
+
+Pigeon 1:
+"Cooh-coo-coo?"
+(Translation: "Should we head to the fountain for water?")
+
+Pigeon 2:
+"Coohh... coo-coo."
+(Translation: "Yes, let’s go! The water there is cool.")
+
+Pigeon 3:
+"Cooh-cooh-coo."
+(Translation: "I’m thirsty. Let’s hurry.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "Alright, we’re off!")
+
+10.
+
+Pigeon 1:
+"Coohhh... coo."
+(Translation: "I’m feeling sleepy.")
+
+Pigeon 2:
+"Cooh-coo-coo!"
+(Translation: "It’s not time to rest yet! The sun is still high.")
+
+Pigeon 3:
+"Coohhh... coo."
+(Translation: "Maybe a quick nap would be fine.")
+
+Pigeon 1:
+"Coohhh..."
+(Translation: "Just a little rest, then.")
+
