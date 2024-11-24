@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pigeon Cooing with Translations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 60%;
+            margin: 0 auto;
+        }
+        .cooing-text {
+            font-size: 2em;
+            color: #555555;
+            margin: 20px 0;
+        }
+        .translation-text {
+            font-size: 1.5em;
+            color: #333333;
+            font-style: italic;
+        }
+        .button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Pigeon Cooing with Translations</h1>
+    <div class="cooing-text" id="cooing">Coo... coo... coo...</div>
+    <div class="translation-text" id="translation">"I’m just here, enjoying the day."</div>
+    <button class="button" onclick="nextCoo()">Next Coo!</button>
+</div>
+
+<script>
+    let cooIndex = 0;
+
+    const cooingArray = [
+        {coo: "Coo... coo... coo...", translation: "I’m just here, enjoying the day."},
+        {coo: "Coo-coo... coo...", translation: "It’s a good day for some food."},
+        {coo: "Coo-coo-coo!", translation: "Is anyone bringing snacks?"},
+        {coo: "Coo-coo... Coo-coo!", translation: "Hey! I see you over there, do you have something for me?"},
+        {coo: "Coo-coo-coo-coo!", translation: "I’m hungry! Anyone? Anyone?!"},
+        {coo: "Coo... coo...", translation: "I guess I’ll just wait patiently..."}
+    ];
+
+    function nextCoo() {
+        cooIndex++;
+        if (cooIndex < cooingArray.length) {
+            document.getElementById("cooing").innerText = cooingArray[cooIndex].coo;
+            document.getElementById("translation").innerText = cooingArray[cooIndex].translation;
+        } else {
+            document.getElementById("cooing").innerText = "The pigeon is resting now.";
+            document.getElementById("translation").innerText = "It’s been a peaceful day.";
+            cooIndex = 0; // Reset the sequence for a new round
+        }
+    }
+</script>
+
+</body>
+</html>
